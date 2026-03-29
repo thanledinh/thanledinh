@@ -102,6 +102,7 @@ const thanLe = {
 | 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:---:|:---|:---:|:---:|
 | 🐾 **MoewApp** | Pet management ecosystem with real-time socket, booking, SOS alerts & social feed | `Flutter` `Node.js` `Socket.IO` `MySQL` | [Repo](https://github.com/thanledinh/meowapp) |
+| 🎮 **SentinelMC** | Battle Royale × MMO Hybrid — Server architecture, anti-cheat engine, class/skill system & match orchestration | `Java` `Spigot` `Javalin` `ProGuard` | ![Private](https://img.shields.io/badge/🔒_Private-161b22?style=flat-square&labelColor=0d1117) |
 | ⚡ **SaaS Engine** | Scalable cloud architectures deployed worldwide | `Next.js` `Vercel` `Supabase` | Coming Soon |
 
 </div>
