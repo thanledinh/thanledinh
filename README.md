@@ -3,9 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/thanledinh">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1000&color=1df2f0&center=true&vCenter=true&width=500&lines=INITIATING+STARTUP+SEQUENCE...;STATUS:+ONLINE;ROLE:+FULLSTACK+ENGINEER;READY_TO_EXECUTE_CODE" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=20&pause=1000&color=1DF2F0&center=true&vCenter=true&width=500&lines=INITIATING_SEQUENCE;STATUS_ONLINE;ROLE_FULLSTACK;READY_TO_EXECUTE" alt="Typing SVG" />
 </p>
 
 ```javascript
@@ -32,14 +30,14 @@ Developer.execute();
 
 ### [ SYS_ANALYTICS ]
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/thanledinh">
-    <img src="https://github-readme-stats.vercel.app/api?username=thanledinh&show_icons=true&title_color=1df2f0&icon_color=1df2f0&text_color=a9b1d6&bg_color=0f1423&border_color=1df2f0" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thanledinh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1423" height="170" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/thanledinh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanledinh&background=0f1423&border=1df2f0&stroke=1df2f0&ring=1df2f0&fire=1df2f0&currStreakNum=1df2f0&sideNums=1df2f0&currStreakLabel=1df2f0&sideLabels=1df2f0&dates=a9b1d6" height="170" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanledinh&theme=tokyonight&hide_border=true&background=0f1423" height="170" alt="GitHub Streak" />
   </a>
-</div>
+</p>
 
 <br/>
 
