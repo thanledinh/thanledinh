@@ -20,33 +20,38 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 &nbsp;Who Am I?
+### `> whoami`
 
-- 🔭 &nbsp;Currently building **MoewApp** — A Pet Management Ecosystem 🐾
-- 🎮 &nbsp;Creator of **SentinelMC** — Battle Royale × MMO Hybrid Server
-- 🎓 &nbsp;**Software Engineering Student** from Vietnam 🇻🇳
-- 🌏 &nbsp;Based in **Ho Chi Minh City**
-- ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed 😎
-- 📫 &nbsp;Reach me at **thanle.webdev@gmail.com**
+```yaml
+Name:       Than Le
+Role:       Fullstack Engineer & System Architect
+Location:   Ho Chi Minh City, Vietnam
+Education:  Software Engineering Student
+Status:     Building next-gen systems
+```
+
+▸ Currently shipping **MoewApp** — Pet Management Ecosystem  
+▸ Creator of **SentinelMC** — Battle Royale × MMO Hybrid  
+▸ Reach me → **thanle.webdev@gmail.com**
 
 </td>
 <td width="50%" valign="top">
 
-### ☕ &nbsp;Daily Routine
+### `> daily.log`
 
 ```text
-🌅 Morning    ██████████░░░░░░  Planning & Coffee
-🏗️ Afternoon  ████████████████  Code & Build
-🐛 Evening    ██████████████░░  Debug & Review  
-🚀 Night      ████████████░░░░  Deploy & Learn
+Morning    ██████████░░░░░░  Planning & Coffee
+Afternoon  ████████████████  Code & Build
+Evening    ██████████████░░  Debug & Review  
+Night      ████████████░░░░  Deploy & Learn
 ```
 
-### 🎯 &nbsp;Current Goals
+### `> goals --2026`
 
-- 🚀 &nbsp;Launch **MoewApp** to production
-- 📱 &nbsp;Master **Flutter** ecosystem
-- ☁️ &nbsp;Deep dive into **Cloud Architecture**
-- 🤖 &nbsp;Explore **AI/ML** integration
+▸ Launch **MoewApp** to production  
+▸ Master **Flutter** ecosystem  
+▸ Deep dive into **Cloud Architecture**  
+▸ Explore **AI/ML** integration  
 
 </td>
 </tr>
