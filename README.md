@@ -16,23 +16,41 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```js
-const thanLe = {
-    pronouns: "he" | "him",
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    role: "Fullstack Engineer & System Architect",
-    currentFocus: "Building MoewApp — A Pet Management Ecosystem 🐾",
-    education: "Software Engineering Student",
-    funFact: "I debug with console.log and I'm not ashamed 😎",
-    
-    daily: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"],
-    
-    contact: {
-        email: "thanle.webdev@gmail.com",
-        github: "github.com/thanledinh"
-    }
-};
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 &nbsp;Who Am I?
+
+- 🔭 &nbsp;Currently building **[MoewApp](https://github.com/thanledinh/meow_flutter)** — A Pet Management Ecosystem 🐾
+- 🎮 &nbsp;Creator of **SentinelMC** — Battle Royale × MMO Hybrid Server
+- 🎓 &nbsp;**Software Engineering Student** from Vietnam 🇻🇳
+- 🌏 &nbsp;Based in **Ho Chi Minh City**
+- ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed 😎
+- 📫 &nbsp;Reach me at **thanle.webdev@gmail.com**
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ &nbsp;Daily Routine
+
+```text
+🌅 Morning    ██████████░░░░░░  Planning & Coffee
+🏗️ Afternoon  ████████████████  Code & Build
+🐛 Evening    ██████████████░░  Debug & Review  
+🚀 Night      ████████████░░░░  Deploy & Learn
 ```
+
+### 🎯 &nbsp;Current Goals
+
+- 🚀 &nbsp;Launch **MoewApp** to production
+- 📱 &nbsp;Master **Flutter** ecosystem
+- ☁️ &nbsp;Deep dive into **Cloud Architecture**
+- 🤖 &nbsp;Explore **AI/ML** integration
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
