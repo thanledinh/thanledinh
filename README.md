@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 &nbsp;Who Am I?
 
-- 🔭 &nbsp;Currently building **[MoewApp](https://github.com/thanledinh/meow_flutter)** — A Pet Management Ecosystem 🐾
+- 🔭 &nbsp;Currently building **MoewApp** — A Pet Management Ecosystem 🐾
 - 🎮 &nbsp;Creator of **SentinelMC** — Battle Royale × MMO Hybrid Server
 - 🎓 &nbsp;**Software Engineering Student** from Vietnam 🇻🇳
 - 🌏 &nbsp;Based in **Ho Chi Minh City**
@@ -58,20 +58,48 @@
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,java,python,html,css,sass&perline=8&theme=dark)](https://skillicons.dev)
+#### ⚡ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Runtime
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,spring,graphql&perline=8&theme=dark)](https://skillicons.dev)
+#### ⚙️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-### 🎨 Frontend & Mobile
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,tailwind,materialui,figma&perline=8&theme=dark)](https://skillicons.dev)
+#### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 🗄️ Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase&perline=8&theme=dark)](https://skillicons.dev)
+#### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-### 🔧 DevOps & Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,vscode,postman&perline=8&theme=dark)](https://skillicons.dev)
+#### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 </div>
 
@@ -110,21 +138,10 @@
 
 <div align="center">
 
-<a href="https://github.com/thanledinh/meow_flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanledinh&repo=meow_flutter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&icon_color=ff6e40&text_color=c9d1d9&cache_seconds=86400" alt="MoewApp"/>
-</a>
-<a href="https://github.com/thanledinh/nhicute">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanledinh&repo=nhicute&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&icon_color=ff6e40&text_color=c9d1d9&cache_seconds=86400" alt="NhiCute"/>
-</a>
-
-</div>
-
-<div align="center">
-
 | 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Status |
 |:---:|:---|:---:|:---:|
-| 🐾 **MoewApp** | Pet management ecosystem with real-time socket, booking, SOS alerts & social feed | `Flutter` `Node.js` `Socket.IO` `MySQL` | [![Repo](https://img.shields.io/badge/Public-1df2f0?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/thanledinh/meow_flutter) |
-| 🎮 **SentinelMC** | Battle Royale × MMO Hybrid — Server architecture, anti-cheat engine, class/skill system & match orchestration | `Java` `Spigot` `Javalin` `ProGuard` | ![Private](https://img.shields.io/badge/Private-ff6e40?style=flat-square&logo=lock&logoColor=white) |
+| 🐾 **MoewApp** | Pet management ecosystem with real-time socket, booking, SOS alerts & social feed | `Flutter` `Node.js` `Socket.IO` `MySQL` | ![Private](https://img.shields.io/badge/🔒_Private-161b22?style=flat-square&labelColor=0d1117) |
+| 🎮 **SentinelMC** | Battle Royale × MMO Hybrid — Server architecture, anti-cheat engine, class/skill system & match orchestration | `Java` `Spigot` `Javalin` `ProGuard` | ![Private](https://img.shields.io/badge/🔒_Private-161b22?style=flat-square&labelColor=0d1117) |
 | ⚡ **SaaS Engine** | Scalable cloud architectures deployed worldwide | `Next.js` `Vercel` `Supabase` | ![WIP](https://img.shields.io/badge/Coming_Soon-58a6ff?style=flat-square) |
 
 </div>
@@ -159,10 +176,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thanledinh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&text_color=c9d1d9&cache_seconds=86400" alt="Wakatime Stats" width="50%" onerror="this.style.display='none'"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1df2f0&height=120&section=footer" width="100%"/>
