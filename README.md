@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1DF2F0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Turning+caffeine+into+production-ready+code;%F0%9F%94%A5+Fullstack+%7C+Cloud+Native+%7C+Mobile+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1DF2F0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%24+Building+the+future%2C+one+commit+at+a+time;%24+Turning+caffeine+into+production-ready+code;%24+Fullstack+%7C+Cloud+Native+%7C+Mobile+Dev)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## `> cat about_me.md`
 
 <table>
 <tr>
@@ -59,11 +59,11 @@ Night      ████████████░░░░  Deploy & Learn
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ &nbsp;Tech Arsenal
+## `> ls tech_stack/`
 
 <div align="center">
 
-#### ⚡ Languages
+#### `languages/`
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -72,7 +72,7 @@ Night      ████████████░░░░  Deploy & Learn
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### ⚙️ Backend & Runtime
+#### `backend/`
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -80,7 +80,7 @@ Night      ████████████░░░░  Deploy & Learn
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-#### 🎨 Frontend & Mobile
+#### `frontend/`
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -88,7 +88,7 @@ Night      ████████████░░░░  Deploy & Learn
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-#### 🗄️ Database & Cloud
+#### `database/`
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -96,7 +96,7 @@ Night      ████████████░░░░  Deploy & Learn
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-#### 🔧 DevOps & Tools
+#### `devops/`
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -110,7 +110,7 @@ Night      ████████████░░░░  Deploy & Learn
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 &nbsp;GitHub Analytics
+## `> git log --stat`
 
 <div align="center">
   <a href="https://github.com/thanledinh">
@@ -133,27 +133,27 @@ Night      ████████████░░░░  Deploy & Learn
 
 <div align="center">
   <a href="https://github.com/thanledinh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanledinh&bg_color=0d1117&color=1df2f0&line=1df2f0&point=ff6e40&area=true&area_color=1df2f015&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanledinh&bg_color=0d1117&color=1df2f0&line=1df2f0&point=ff6e40&area=true&area_color=1df2f015&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
   </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 &nbsp;Featured Projects
+## `> ls projects/`
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Status |
+| Project | Description | Tech Stack | Status |
 |:---:|:---|:---:|:---:|
-| 🐾 **MoewApp** | Pet management ecosystem with real-time socket, booking, SOS alerts & social feed | `Flutter` `Node.js` `Socket.IO` `MySQL` | ![Private](https://img.shields.io/badge/🔒_Private-161b22?style=flat-square&labelColor=0d1117) |
-| 🎮 **SentinelMC** | Battle Royale × MMO Hybrid — Server architecture, anti-cheat engine, class/skill system & match orchestration | `Java` `Spigot` `Javalin` `ProGuard` | ![Private](https://img.shields.io/badge/🔒_Private-161b22?style=flat-square&labelColor=0d1117) |
-| ⚡ **SaaS Engine** | Scalable cloud architectures deployed worldwide | `Next.js` `Vercel` `Supabase` | ![WIP](https://img.shields.io/badge/Coming_Soon-58a6ff?style=flat-square) |
+| **MoewApp** | Pet management ecosystem with real-time socket, booking, SOS alerts & social feed | `Flutter` `Node.js` `Socket.IO` `MySQL` | ![Private](https://img.shields.io/badge/Private-161b22?style=flat-square&labelColor=0d1117) |
+| **SentinelMC** | Battle Royale × MMO Hybrid — Server architecture, anti-cheat engine, class/skill system & match orchestration | `Java` `Spigot` `Javalin` `ProGuard` | ![Private](https://img.shields.io/badge/Private-161b22?style=flat-square&labelColor=0d1117) |
+| **SaaS Engine** | Scalable cloud architectures deployed worldwide | `Next.js` `Vercel` `Supabase` | ![WIP](https://img.shields.io/badge/Coming_Soon-58a6ff?style=flat-square) |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 &nbsp;GitHub Trophies
+## `> achievements --all`
 
 <div align="center">
   <a href="https://github.com/thanledinh">
@@ -163,7 +163,7 @@ Night      ████████████░░░░  Deploy & Learn
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 &nbsp;Connect With Me
+## `> contact --list`
 
 <div align="center">
 
@@ -187,5 +187,5 @@ Night      ████████████░░░░  Deploy & Learn
 </div>
 
 <div align="center">
-  <sub>⚡ Crafted with passion by <a href="https://github.com/thanledinh">Than Le</a> — <i>"Code is poetry written in logic."</i></sub>
+  <sub>$ crafted with passion by <a href="https://github.com/thanledinh">Than Le</a> — <i>"Code is poetry written in logic."</i></sub>
 </div>
