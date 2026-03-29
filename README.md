@@ -2,19 +2,16 @@
 
 <div align="center">
 
-<!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1DF2F0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Turning+caffeine+into+production-ready+code;%F0%9F%94%A5+Fullstack+%7C+Cloud+Native+%7C+Mobile+Dev)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=thanledinh&style=for-the-badge&color=1df2f0&label=PROFILE+VIEWS)](https://github.com/thanledinh)
 [![GitHub followers](https://img.shields.io/github/followers/thanledinh?style=for-the-badge&logo=github&logoColor=1df2f0&labelColor=0d1117&color=161b22)](https://github.com/thanledinh)
 [![GitHub stars](https://img.shields.io/github/stars/thanledinh?style=for-the-badge&logo=github&logoColor=1df2f0&labelColor=0d1117&color=161b22)](https://github.com/thanledinh)
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
@@ -37,7 +34,6 @@ const thanLe = {
 };
 ```
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ &nbsp;Tech Arsenal
@@ -61,62 +57,70 @@ const thanLe = {
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanledinh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&icon_color=1df2f0&text_color=c9d1d9&ring_color=1df2f0&rank_icon=github" alt="Than Le's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanledinh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/thanledinh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanledinh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&icon_color=1df2f0&text_color=c9d1d9&ring_color=1df2f0&rank_icon=github&cache_seconds=86400" alt="Than Le's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/thanledinh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanledinh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanledinh&theme=tokyonight&hide_border=true&background=0d1117&stroke=1df2f0&ring=1df2f0&fire=ff6e40&currStreakLabel=1df2f0&sideLabels=1df2f0&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" alt="GitHub Streak"/>
+  <a href="https://github.com/thanledinh">
+    <img src="https://streak-stats.demolab.com/?user=thanledinh&theme=tokyonight&hide_border=true&background=0d1117&stroke=1df2f0&ring=1df2f0&fire=ff6e40&currStreakLabel=1df2f0&sideLabels=1df2f0&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanledinh&bg_color=0d1117&color=1df2f0&line=1df2f0&point=ff6e40&area=true&area_color=1df2f015&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
+  <a href="https://github.com/thanledinh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanledinh&bg_color=0d1117&color=1df2f0&line=1df2f0&point=ff6e40&area=true&area_color=1df2f015&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
+  </a>
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/thanledinh/meowapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanledinh&repo=meowapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&icon_color=ff6e40&text_color=c9d1d9" alt="MoewApp"/>
+<a href="https://github.com/thanledinh/meow_flutter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanledinh&repo=meow_flutter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&icon_color=ff6e40&text_color=c9d1d9&cache_seconds=86400" alt="MoewApp"/>
+</a>
+<a href="https://github.com/thanledinh/nhicute">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanledinh&repo=nhicute&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&icon_color=ff6e40&text_color=c9d1d9&cache_seconds=86400" alt="NhiCute"/>
 </a>
 
 </div>
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Status |
 |:---:|:---|:---:|:---:|
-| 🐾 **MoewApp** | Pet management ecosystem with real-time socket, booking, SOS alerts & social feed | `Flutter` `Node.js` `Socket.IO` `MySQL` | [Repo](https://github.com/thanledinh/meowapp) |
-| 🎮 **SentinelMC** | Battle Royale × MMO Hybrid — Server architecture, anti-cheat engine, class/skill system & match orchestration | `Java` `Spigot` `Javalin` `ProGuard` | ![Private](https://img.shields.io/badge/🔒_Private-161b22?style=flat-square&labelColor=0d1117) |
-| ⚡ **SaaS Engine** | Scalable cloud architectures deployed worldwide | `Next.js` `Vercel` `Supabase` | Coming Soon |
+| 🐾 **MoewApp** | Pet management ecosystem with real-time socket, booking, SOS alerts & social feed | `Flutter` `Node.js` `Socket.IO` `MySQL` | [![Repo](https://img.shields.io/badge/Public-1df2f0?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/thanledinh/meow_flutter) |
+| 🎮 **SentinelMC** | Battle Royale × MMO Hybrid — Server architecture, anti-cheat engine, class/skill system & match orchestration | `Java` `Spigot` `Javalin` `ProGuard` | ![Private](https://img.shields.io/badge/Private-ff6e40?style=flat-square&logo=lock&logoColor=white) |
+| ⚡ **SaaS Engine** | Scalable cloud architectures deployed worldwide | `Next.js` `Vercel` `Supabase` | ![WIP](https://img.shields.io/badge/Coming_Soon-58a6ff?style=flat-square) |
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanledinh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <a href="https://github.com/thanledinh">
+    <img src="https://github-profile-trophy.vercel.app/?username=thanledinh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  </a>
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 &nbsp;Connect With Me
@@ -132,23 +136,15 @@ const thanLe = {
 
 <br/>
 
-<!-- Random Dev Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
 </div>
 
 <br/>
 
-<!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thanledinh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1df2f0&text_color=c9d1d9&cache_seconds=86400" alt="Wakatime Stats" width="50%" onerror="this.style.display='none'"/>
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1df2f0&height=120&section=footer" width="100%"/>
